@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 8"
-author: "Sean Leader"
+author: "Sean Leader, Austin Lautenbach, Gabriel Barney, Rachel Koenigsberg"
 date: "5/18/2021"
 output: html_document
 ---
