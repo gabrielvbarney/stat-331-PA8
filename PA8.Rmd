@@ -27,6 +27,7 @@ You can also embed plots, for example:
 ```{r pressure, echo=FALSE}
 pressure %>% 
   ggplot(aes(x = temperature, y = pressure)) +
+  labs(x = "Temperature", y = "Pressure") +
   geom_point()
 ```
 
